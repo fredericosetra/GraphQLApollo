@@ -3,7 +3,7 @@
 
 Servidor GRAPHQL com apollo server, com as operações basicas do CRUD, para essa aplicação foi criada com JSON Server.
 
-![logo graphql](img\graphql.png) 
+![logo graphql](https://github.com/fredericosetra/GraphQLApollo/blob/develop/img/graphql.png?raw=true) 
 
 
 ## Para iniciar o projeto
@@ -30,4 +30,4 @@ npm start
 Para acessar o playground do GraphQL, acesse: http://localhost:4000/
 
 
-![logo graphql](img\playground.png)
+![logo graphql](https://github.com/fredericosetra/GraphQLApollo/blob/develop/img/playground.png?raw=true)
